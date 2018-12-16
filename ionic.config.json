@@ -1,5 +1,6 @@
 {
   "name": "sampleApp",
   "integrations": {},
-  "type": "ionic-angular"
+  "type": "ionic-angular",
+  "id": "295df71f"
 }
